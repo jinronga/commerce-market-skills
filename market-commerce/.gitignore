@@ -1,0 +1,7 @@
+# Per-user credentials and local endpoints. Keep only config.json.example in Git.
+resources/config.json
+resources/config.local.json
+resources/credentials.json
+.env
+.env.*
+!.env.example

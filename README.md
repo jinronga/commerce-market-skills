@@ -10,6 +10,7 @@
 | `product-hunting-expert` | 选品 | 用于跨境电商产品机会发现、蓝海/灰海判断、平台适配、利润空间和风险评估。 |
 | `market-keyword-localization-expert` | 多站点关键词本地化 | 用于美国、日本、德国、法国、中东等不同国家/站点的本地化搜索词分析、关键词分组、埋词优先级和验证建议。 |
 | `listing-optimization-expert` | Listing 优化 | 用于 Amazon、TikTok Shop/TK、Noon 等多平台产品标题、亚马逊五点描述、商品描述、核心关键词埋词和爆品标题优化。 |
+| `market-commerce` | 电商运营 / 妙手 ERP | 可分发的本地图片包、货盘到妙手公共采集箱草稿流程；含默认库存/定价、环境检查与 API 客户端。 |
 
 ## 建议后续板块
 
